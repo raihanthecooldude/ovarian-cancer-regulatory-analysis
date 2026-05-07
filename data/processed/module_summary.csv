@@ -1,0 +1,7 @@
+module,name,n_genes,top_hubs
+Module 1,Stromal/CAF,52,"LUM, FAP, SFRP2, POSTN, PRRX1"
+Module 2,Immune,36,"CXCL9, IL21R, GZMK, PLA2G2D, IRF4"
+Module 3,Developmental,30,"COLEC11, STAR, ARX, FOXL2, C3orf72"
+Module 4,Acute phase,7,"NNMT, LCN2, SAA1, SAA2, FMO2"
+Module 5,Adipose,4,"FABP4, CCL21, ADH1B, ADIPOQ"
+Module 6,Other,3,"CPA3, TPSB2, TPSAB1"

@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ignore all raw data files (they're large and may have redistribution restrictions)
+data/raw/*
+
+# But keep only the used patient files
+!data/raw/data_clinical_patient.txt
+!data/raw/data_mrna_seq_v2_rsem.txt
+
+# OS files
+.DS_Store
+Thumbs.db
